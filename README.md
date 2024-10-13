@@ -1,6 +1,6 @@
 # Cristian Ruben Pereyra
 
-### `Frontend Developer | Telecommunications Engineer`
+`Frontend Developer | Telecommunications Engineer`
 
 ---
 
