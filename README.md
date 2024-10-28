@@ -51,5 +51,6 @@ I also enjoy experimenting with state management tools like **Zustand**, UI fram
 
 - 📧 Email: [cp.crist.pereyra@gmail.com]
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/crist-pereyra/)
+- 🌐 Portfolio: [My Portfolio](https://cristian-pereyra.vercel.app/)
 
 Feel free to reach out if you're interested in collaborating or discussing new projects!
