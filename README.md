@@ -36,3 +36,12 @@ I also enjoy experimenting with state management tools like **Zustand**, UI fram
 - 🌐 Portfolio: [My Portfolio](https://cristian-pereyra.vercel.app/)
 
 Feel free to reach out if you're interested in collaborating or discussing new projects!
+
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
