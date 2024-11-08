@@ -41,7 +41,7 @@ Feel free to reach out if you're interested in collaborating or discussing new p
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crist-pereyra/crist-pereyra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crist-pereyra/crist-pereyra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/crist-pereyra/crist-pereyra/output/github-snake.svg" />
 </picture>
